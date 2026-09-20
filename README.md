@@ -1,4 +1,13 @@
-## Hi there 👋
+**Hi I'm Mhaks! French gaymer learning how to code, love config menus.**
+
+Minecraft mods I'm working on:
+- Dusty Decorations, available on <sup><img src="https://github.com/Mhaks02/resources/blob/main/readme_misc/modrinth_icon_x96.svg" width="2.25%" align="center"></sup> [Modrinth](https://modrinth.com/mod/dusty-decorations) and <sup><img src="https://github.com/Mhaks02/resources/blob/main/readme_misc/curseforge_icon_x96.svg" width="2.25%" align="center"></sup> [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dusty-decorations).
+- Apace's Cosmetic Armor Updated, available on <sup><img src="https://github.com/Mhaks02/resources/blob/main/readme_misc/modrinth_icon_x96.svg" width="2.25%" align="center"></sup> [Modrinth](https://modrinth.com/mod/cosmetic-armor-updated) and <sup><img src="https://github.com/Mhaks02/resources/blob/main/readme_misc/curseforge_icon_x96.svg" width="2.25%" align="center"></sup> [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-updated).
+
+You can support me on  <sub><sub><a href="https://ko-fi.com/mhaks_"><img src="https://storage.ko-fi.com/cdn/brandasset/v2/kofi_logo.png" width="10%"></a></sub></sub> ! <sub><sup>_I don't actually drink coffee but I love tea so that works too..._</sup></sub>
+
+<!--
+I also stream sometimes _(in French)_, find me on [Twitch](https://twitch.tv/mhaks_)!
 
 <!--
 **Mhaks02/mhaks02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
